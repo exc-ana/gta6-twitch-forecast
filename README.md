@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![Rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/exc-ana/gta6-twitch-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![Reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/exc-ana/gta6-twitch-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+
 # Forecast GTA VI's launch-day Twitch viewers hour by hour
 
 make.fun competition `gta6-twitch-ccu-forecast-01` — $250, entries close
